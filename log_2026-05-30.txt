@@ -1,0 +1,6 @@
+Moved data.csv to data
+Moved notes.pdf to Documents
+Moved photo.jpg to Images
+Moved resume.pdf to Documents
+Moved selfie.jpg to Images
+Moved video.mp4 to Videos
