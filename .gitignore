@@ -1,0 +1,3 @@
+test_folder/
+*.txt
+__pycache__/
